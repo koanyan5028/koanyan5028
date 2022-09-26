@@ -1,5 +1,4 @@
 - 👋 Hi, I’m a cat. meow
--         I'm @koanyan5028.
 - 👀 I’m interested in Java.
 - 🌱 I’m currently learning C++ and DirectX.
 - 💞️ I’m looking to collaborate on NULL.
