@@ -1,11 +1,11 @@
-#日本語:
+# 日本語:
 - 👋 にゃー
 - 👀 Javaに興味が有ります。
 - 🌱 C++ と DirectXを勉強中です。
 - 💞️ コラボには興味無いです。
 - 📫 連絡方法: 幻想入りして青い猫の妖怪を探して下さい。もしかしたらそれが私かもしれません。
 
-#English:
+# English:
 - 👋 Hi, I’m a cat. meow
 - 👀 I’m interested in Java.
 - 🌱 I’m currently learning C++ and DirectX.
