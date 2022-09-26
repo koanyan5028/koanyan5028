@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @koanyan5028
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning C++ and DirectX
-- 💞️ I’m looking to collaborate on NULL
+- 👋 Hi, I’m a cat. meow
+-         I'm @koanyan5028.
+- 👀 I’m interested in Java.
+- 🌱 I’m currently learning C++ and DirectX.
+- 💞️ I’m looking to collaborate on NULL.
 - 📫 How to reach me ... Go to Gensokyo and find blue cat youkai. It's may be me.
 
 <!---
