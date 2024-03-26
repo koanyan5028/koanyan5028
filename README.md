@@ -10,7 +10,7 @@
 - 👀 I’m interested in Java.
 - 🌱 I’m currently learning C++ and DirectX.
 - 💞️ I’m not interested in collaboration.
-- 📫 How to reach me ... Go to Gensokyo and find blue cat youkai. It's may be me.
+- 📫 How to reach me ... Go to Gensokyo and find blue cat youkai. It might be me.
 
 <!---
 koanyan5028/koanyan5028 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
