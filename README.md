@@ -8,7 +8,7 @@
 # English:
 - 👋 Hi, I’m a cat! meow \:3
 - 👀 I’m interested in /\*nothing to write here atm\*/.
-- 🌱 I’m currently learning Kotlin and modding minecraft.
+- 🌱 I’m currently learning Kotlin and Minecraft modding.
 - 💞️ I’m not interested in collaboration.
 - 📫 How to reach me ... Go to Gensokyo and look for a blue cat youkai. Or, you can contact me on Discord: koanyan5028
 
